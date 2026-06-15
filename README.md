@@ -51,3 +51,6 @@ CyberPet — bu foydalanuvchiga o'zining raqamli uy hayvoniga g'amxo'rlik qilish
 <img src="https://capsule-render.vercel.app/api?type=rect&color=00E5FF&height=60&section=footer" width="100%"/>
 <b>💎 ADOPT YOUR PIXELS — Built with ❤️ by Aslzoda 💎</b>
 </div>
+
+
+aslzoda

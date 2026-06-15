@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=00E5FF&height=120&section=header&text=🐾%20𝑪𝒀𝑩𝑬𝑹𝑷𝑬𝑻:%20𝑫𝑰𝑮𝑰𝑻𝑨𝑳%20𝑪𝑶𝑴𝑷𝑨𝑵𝑰𝑶𝑵&fontSize=35&fontColor=000000" width="100%"/>
-
+ 
 </div>
 
 🐾 𝑶𝒗𝒆𝒓𝒗𝒊𝒆𝒘: 𝑻𝒆𝒓𝒎𝒊𝒏𝒂𝒍𝒅𝒂𝒈𝒊 𝑽𝒊𝒓𝒕𝒖𝒂𝒍 𝑯𝒂𝒚𝒐𝒕
